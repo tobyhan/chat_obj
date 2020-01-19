@@ -1,0 +1,4 @@
+[我 -> bbb]:你好，bbb。我是aaa。
+[我 -> ccc]:你好，ccc。我是aaa。
+[我 -> aaa]:我是bbb。
+[我 -> aaa]:我是ccc。
